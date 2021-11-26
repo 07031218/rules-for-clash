@@ -3,3 +3,6 @@
 payload:
 ## >> 矿机专用
   - DOMAIN-SUFFIX,ethermine.org
+  - DOMAIN-SUFFIX,f2pool.com
+  - DOMAIN-SUFFIX,antpool.com
+  - DOMAIN-SUFFIX,hiveon.net
