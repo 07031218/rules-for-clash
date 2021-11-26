@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,antpool.com
   - DOMAIN-SUFFIX,hiveon.net
   - DOMAIN-SUFFIX,api.hiveon.net
+  - IP-CIDR,103.117.146.150/8
