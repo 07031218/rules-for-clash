@@ -12,4 +12,5 @@ payload:
   - DOMAIN-SUFFIX,qwe.iothingstoday.com
   - DOMAIN-SUFFIX,*.iothingstoday.com
   - DOMAIN-SUFFIX,*.poolin.com
+  - DOMAIN-SUFFIX,eth.ss.poolin.com
   - IP-CIDR,103.117.146.150/8
