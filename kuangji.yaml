@@ -7,5 +7,5 @@ payload:
   - DOMAIN-SUFFIX,antpool.com
   - DOMAIN-SUFFIX,hiveon.net
   - DOMAIN-SUFFIX,2miners.com
-  - DOMAIN-SUFFIX,api.hiveon.net
+  - DOMAIN-SUFFIX,hiveos.farm
   - IP-CIDR,103.117.146.150/8
