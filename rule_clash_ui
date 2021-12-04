@@ -31,18 +31,18 @@ ruleset=⬛️ 漏网之鱼,[]MATCH
 
 ;设置分组标志位
 custom_proxy_group=🚀 节点选择`select`[]🔰 全部节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🎮 游戏节点`[]🇩🇪 德国节点`[]⭕ 直连
-custom_proxy_group=📈 Speedtest`select`[]⭕ 直连`[]🚀 节点选择
+custom_proxy_group=📈 Speedtest`select`[]⭕ 直连`[]🚀 节点选择`.*
 custom_proxy_group=💬 即时通讯`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇩🇪 德国节点`[]⭕ 直连
-custom_proxy_group=🌍 国际互联`select`[]🚀 节点选择`[]⭕ 直连
+custom_proxy_group=🌍 国际互联`select`[]🚀 节点选择`.*`[]⭕ 直连
 custom_proxy_group=🎬 Netflix`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇩🇪 德国节点`🔰 全部节点`[]⭕ 直连
 custom_proxy_group=🐭 Disney plus`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇩🇪 德国节点`[]⭕ 直连
-custom_proxy_group=📽 Youtube`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇩🇪 德国节点`[]⭕ 直连
+custom_proxy_group=📽 Youtube`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇩🇪 德国节点`.*`[]⭕ 直连
 custom_proxy_group=🎥 港澳台媒体`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]⭕ 直连
 custom_proxy_group=🎥 国际媒体`select`[]🚀 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇩🇪 德国节点`[]⭕ 直连
 custom_proxy_group=🎥 国内媒体`select`[]⭕ 直连`[]🚀 节点选择`[]🌍 国际互联
-custom_proxy_group=🔄 谷歌服务`select`[]🌍 国际互联`[]⭕ 直连
-custom_proxy_group=🖥 微软服务`select`[]🌍 国际互联`[]⭕ 直连
-custom_proxy_group=📱 苹果服务`select`[]⭕ 直连`[]🌍 国际互联
+custom_proxy_group=🔄 谷歌服务`select`[]🌍 国际互联`.*`[]⭕ 直连
+custom_proxy_group=🖥 微软服务`select`[]🌍 国际互联`.*`[]⭕ 直连
+custom_proxy_group=📱 苹果服务`select`[]⭕ 直连`[]🌍 国际互联`.*
 custom_proxy_group=⬛️ 漏网之鱼`select`[]🚀 节点选择`[]⭕ 直连`[]🌍 国际互联`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🇩🇪 德国节点
 custom_proxy_group=🔰 全部节点`select`.*
 custom_proxy_group=🇭🇰 香港节点`select`(香港|港|HK|Hong Kong)
@@ -60,3 +60,5 @@ clash_rule_base=base/clash.tpl
 
 enable_rule_generator=true
 overwrite_original_rules=true
+
+
