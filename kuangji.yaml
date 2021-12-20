@@ -2,6 +2,8 @@
 ### >>> 矿机专用
 payload:
 ## >> 矿机专用
+  - DOMAIN-KEYWORD,eth
+  - DOMAIN-KEYWORD,f2pool
   - DOMAIN-SUFFIX,ethermine.org
   - DOMAIN-SUFFIX,f2pool.com
   - DOMAIN-SUFFIX,antpool.com
@@ -15,3 +17,4 @@ payload:
   - IP-CIDR,103.117.146.150/8
   - IP-CIDR,123.57.226.189/8
   - IP-CIDR,34.92.52.150/8
+  - IP-CIDR,116.213.41.202
