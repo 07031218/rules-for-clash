@@ -12,8 +12,6 @@ payload:
 ## >> tailscale
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
-  - DOMAIN-SUFFIX,chaowankeji.com
-  - DOMAIN-SUFFIX,20120714.xyz
 ## >> Biu  
   - DOMAIN-SUFFIX,johnita.vip
 ## >> J
