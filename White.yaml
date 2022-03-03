@@ -9,7 +9,10 @@ payload:
   - IP-CIDR,129.154.51.236/24,no-resolve
   - IP-CIDR,52.163.226.8/24,no-resolve  
   - IP-CIDR,47.242.31.246/24,no-resolve  
-## >> Biu
+## >> tailscale
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,tailscale.com
+## >> Biu  
   - DOMAIN-SUFFIX,johnita.vip
 ## >> J
   - DOMAIN-SUFFIX,o2.cx
