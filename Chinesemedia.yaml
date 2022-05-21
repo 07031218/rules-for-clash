@@ -2,8 +2,6 @@
 ### >>> 国内流媒体服务
 
 payload:
-## >> cloudfront
-  - DOMAIN-SUFFIX,cloudfront.net
 ## >> bilibili
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
