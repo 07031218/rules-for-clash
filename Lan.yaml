@@ -2,6 +2,11 @@
 ### >>> 内网保留地址
 
 payload:
+## >> cloudfront
+  - DOMAIN-SUFFIX,cloudfront.net
+## >> emby、plex
+  - DOMAIN-SUFFIX,emby.20120714.xyz
+  - DOMAIN-SUFFIX,plex.20120714.xyz
 # > Lan
   - DOMAIN-SUFFIX,local
   - IP-CIDR,10.0.0.0/8,no-resolve
