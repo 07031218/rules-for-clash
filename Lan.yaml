@@ -3,6 +3,9 @@
 
 payload:
 ## >> cloudfront
+  - DOMAIN,d1q6qaf2qmqaod.cloudfront.net
+  - DOMAIN,d2emu9g7c6eoez.cloudfront.net
+  - DOMAIN,d2yusyt8hxidu2.cloudfront.net
   - DOMAIN-SUFFIX,cloudfront.net
 ## >> emby、plex
   - DOMAIN-SUFFIX,emby.20120714.xyz
