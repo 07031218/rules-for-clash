@@ -3,6 +3,7 @@
 
 payload:
 ## >> rule cloud
+  - DOMAIN,embyvip.misakaf.org
   - DOMAIN,077582580.xyz
   - DOMAIN-SUFFIX,077582580.xyz
   - DOMAIN-SUFFIX,plex.tv
