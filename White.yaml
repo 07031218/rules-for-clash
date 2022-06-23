@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,cloudfront.net
   - IP-CIDR,129.154.51.236/24,no-resolve
   - IP-CIDR,52.163.226.8/24,no-resolve  
   - IP-CIDR,47.242.31.246/24,no-resolve  
